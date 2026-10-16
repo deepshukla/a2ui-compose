@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Back UI Card / Window Frame -->
+    <path
+        android:fillColor="#38BDF8"
+        android:fillAlpha="0.35"
+        android:pathData="M30,30 h42 c3.3,0 6,2.7 6,6 v36 c0,3.3 -2.7,6 -6,6 h-42 c-3.3,0 -6,-2.7 -6,-6 v-36 c0,-3.3 2.7,-6 6,-6 z" />
+
+    <!-- Main Front UI Card -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,36 h38 c2.2,0 4,1.8 4,4 v30 c0,2.2 -1.8,4 -4,4 h-38 c-2.2,0 -4,-1.8 -4,-4 v-30 c0,-2.2 1.8,-4 4,-4 z" />
+
+    <!-- UI Card Top Bar Header -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M34,36 h38 c2.2,0 4,1.8 4,4 v6 h-46 v-6 c0,-2.2 1.8,-4 4,-4 z" />
+
+    <!-- Window Dots -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,41 a1.5,1.5 0 1,0 0.01,0 M43,41 a1.5,1.5 0 1,0 0.01,0 M48,41 a1.5,1.5 0 1,0 0.01,0" />
+
+    <!-- Dynamic UI Component Rows / Blocks inside the Card -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M38,50 h18 c1,0 1.5,0.7 1.5,1.5 c0,0.8 -0.5,1.5 -1.5,1.5 h-18 c-1,0 -1.5,-0.7 -1.5,-1.5 c0,-0.8 0.5,-1.5 1.5,-1.5 z" />
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M38,56 h28 c1,0 1.5,0.7 1.5,1.5 c0,0.8 -0.5,1.5 -1.5,1.5 h-28 c-1,0 -1.5,-0.7 -1.5,-1.5 c0,-0.8 0.5,-1.5 1.5,-1.5 z" />
+
+    <!-- Dynamic Component Button Block (A2UI interactive pill) -->
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M38,62 h16 c1.5,0 2.5,1 2.5,2.5 c0,1.5 -1,2.5 -2.5,2.5 h-16 c-1.5,0 -2.5,-1 -2.5,-2.5 c0,-1.5 1,-2.5 2.5,-2.5 z" />
+
+    <!-- AI Spark Symbol (representing Agent prompt to UI generation) -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M74,32 C74,37 77,40 82,40 C77,40 74,43 74,48 C74,43 71,40 66,40 C71,40 74,37 74,32 Z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M78,50 C78,52.5 79.5,54 82,54 C79.5,54 78,55.5 78,58 C78,55.5 76.5,54 74,54 C76.5,54 78,52.5 78,50 Z" />
+</vector>

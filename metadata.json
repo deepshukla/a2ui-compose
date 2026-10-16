@@ -1,0 +1,6 @@
+{
+  "name": "A2UI Compose",
+  "description": "Agent-to-UI dynamic component renderer for Jetpack Compose with JSON schema catalogs and MVVM architecture",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
